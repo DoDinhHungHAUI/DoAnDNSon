@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g8YOIEL6qJOw03RY5Sojcf3m5cglOmfG0sNdKgfigWOTzCMT+3RK/zMXzw64N2J+DTB84cnQAIAiW4n8vndXNg==",
+  "success": true,
+  "projectFilePath": "E:\\DoAnTotNghiep\\DoAnDNSon\\Backend\\DNSon.ApplicationCore\\DNSON.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

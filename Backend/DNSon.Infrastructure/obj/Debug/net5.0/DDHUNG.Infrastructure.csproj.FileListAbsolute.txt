@@ -1,0 +1,30 @@
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\bin\Debug\net5.0\DDHUNG.Infrastructure.deps.json
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\bin\Debug\net5.0\DDHUNG.Infrastructure.dll
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\bin\Debug\net5.0\ref\DDHUNG.Infrastructure.dll
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\bin\Debug\net5.0\DDHUNG.Infrastructure.pdb
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\bin\Debug\net5.0\DDHUNG.ApplicationCore.dll
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\bin\Debug\net5.0\DDHUNG.ApplicationCore.pdb
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.csproj.AssemblyReference.cache
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.AssemblyInfoInputs.cache
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.AssemblyInfo.cs
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.csproj.CoreCompileInputs.cache
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.csproj.CopyComplete
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.dll
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\obj\Debug\net5.0\ref\DDHUNG.Infrastructure.dll
+F:\C#\Đồ Án Tốt Nghiệp\DDHUNG.DoAnTotNghiep\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.pdb
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\bin\Debug\net5.0\DDHUNG.Infrastructure.deps.json
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\bin\Debug\net5.0\DDHUNG.Infrastructure.dll
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\bin\Debug\net5.0\ref\DDHUNG.Infrastructure.dll
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\bin\Debug\net5.0\DDHUNG.Infrastructure.pdb
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.csproj.AssemblyReference.cache
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.AssemblyInfoInputs.cache
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.AssemblyInfo.cs
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.csproj.CoreCompileInputs.cache
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.csproj.CopyComplete
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.dll
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\obj\Debug\net5.0\ref\DDHUNG.Infrastructure.dll
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\obj\Debug\net5.0\DDHUNG.Infrastructure.pdb
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\bin\Debug\net5.0\DNSON.ApplicationCore.dll
+E:\BaoCaoDoAnTotNghiep\2018603091_DoDinhHung_ChuongTrinh\Backend\DDHUNG.Infrastructure\bin\Debug\net5.0\DNSON.ApplicationCore.pdb

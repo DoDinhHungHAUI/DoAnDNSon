@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\BaoCaoDoAnTotNghiep\\2018603091_DoDinhHung_ChuongTrinh\\Backend\\DDHUNG.Infrastructure\\DDHUNG.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "E:\\BaoCaoDoAnTotNghiep\\2018603091_DoDinhHung_ChuongTrinh\\Backend\\DDHUNG.ApplicationCore\\DNSON.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\BaoCaoDoAnTotNghiep\\2018603091_DoDinhHung_ChuongTrinh\\Backend\\DDHUNG.ApplicationCore\\DNSON.ApplicationCore.csproj",
+        "projectName": "DNSON.ApplicationCore",
+        "projectPath": "E:\\BaoCaoDoAnTotNghiep\\2018603091_DoDinhHung_ChuongTrinh\\Backend\\DDHUNG.ApplicationCore\\DNSON.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\BaoCaoDoAnTotNghiep\\2018603091_DoDinhHung_ChuongTrinh\\Backend\\DDHUNG.ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\BaoCaoDoAnTotNghiep\\2018603091_DoDinhHung_ChuongTrinh\\Backend\\DDHUNG.Infrastructure\\DDHUNG.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\BaoCaoDoAnTotNghiep\\2018603091_DoDinhHung_ChuongTrinh\\Backend\\DDHUNG.Infrastructure\\DDHUNG.Infrastructure.csproj",
+        "projectName": "DDHUNG.Infrastructure",
+        "projectPath": "E:\\BaoCaoDoAnTotNghiep\\2018603091_DoDinhHung_ChuongTrinh\\Backend\\DDHUNG.Infrastructure\\DDHUNG.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\BaoCaoDoAnTotNghiep\\2018603091_DoDinhHung_ChuongTrinh\\Backend\\DDHUNG.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\BaoCaoDoAnTotNghiep\\2018603091_DoDinhHung_ChuongTrinh\\Backend\\DDHUNG.ApplicationCore\\DNSON.ApplicationCore.csproj": {
+                "projectPath": "E:\\BaoCaoDoAnTotNghiep\\2018603091_DoDinhHung_ChuongTrinh\\Backend\\DDHUNG.ApplicationCore\\DNSON.ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
